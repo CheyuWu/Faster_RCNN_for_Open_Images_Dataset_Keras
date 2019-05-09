@@ -1,0 +1,6 @@
+BloodImage_00323.jpg 22 120 330 360 WBC
+BloodImage_00323.jpg 353 343 445 444 RBC
+BloodImage_00323.jpg 523 257 640 379 RBC
+BloodImage_00323.jpg 539 364 640 457 RBC
+BloodImage_00323.jpg 339 170 475 278 RBC
+BloodImage_00323.jpg 66 1 173 111 RBC

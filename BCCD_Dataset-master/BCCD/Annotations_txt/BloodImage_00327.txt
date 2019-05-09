@@ -1,0 +1,2 @@
+BloodImage_00327.jpg 106 109 146 139 Platelets
+BloodImage_00327.jpg 331 102 379 142 Platelets

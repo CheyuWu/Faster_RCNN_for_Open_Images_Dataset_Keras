@@ -1,0 +1,15 @@
+BloodImage_00098.jpg 371 278 481 380 RBC
+BloodImage_00098.jpg 538 167 636 262 RBC
+BloodImage_00098.jpg 497 61 599 159 RBC
+BloodImage_00098.jpg 105 221 191 322 RBC
+BloodImage_00098.jpg 225 349 310 434 RBC
+BloodImage_00098.jpg 66 266 152 357 RBC
+BloodImage_00098.jpg 1 1 92 72 RBC
+BloodImage_00098.jpg 31 152 114 235 RBC
+BloodImage_00098.jpg 377 153 466 244 RBC
+BloodImage_00098.jpg 256 28 380 137 RBC
+BloodImage_00098.jpg 63 43 155 154 RBC
+BloodImage_00098.jpg 418 64 517 166 RBC
+BloodImage_00098.jpg 307 363 396 454 RBC
+BloodImage_00098.jpg 178 130 360 311 WBC
+BloodImage_00098.jpg 29 414 72 449 Platelets

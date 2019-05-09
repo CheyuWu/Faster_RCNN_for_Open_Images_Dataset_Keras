@@ -1,0 +1,2 @@
+BloodImage_00224.jpg 243 128 388 291 WBC
+BloodImage_00224.jpg 300 87 334 130 Platelets
