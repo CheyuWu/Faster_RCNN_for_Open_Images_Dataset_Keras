@@ -22,5 +22,7 @@ This is my homework from the course of graduated school, and this was forked fro
 <img src="Assets/WBC_roc_auc.jpg" width="425"/> 
 <img src="Assets/WBC_PRCurve.jpg" width="425"/>
 </p>
+<p>
 <img src="Assets/RBC_roc_auc.jpg" width="425"/> 
 <img src="Assets/Platelets_roc_auc.jpg" width="425"/>
+</p>
