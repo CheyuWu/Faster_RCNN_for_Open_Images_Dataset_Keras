@@ -6,7 +6,7 @@ This is my homework from the course of graduated school, and this was forked fro
 ## Project Structure
 BCCD_Dataset-master stored the dataset of this project. frcnn_train_vgg.ipynb is the training script and frcnn_test_vgg.ipynb is the testing script of my project which output the results.
 
-## Result for some test images
+## Results
 <p float="left">
     <img src="Assets/blood_cell_0.jpg" width="425"/> 
     <img src="Assets/blood_cell_1.jpg" width="425"/>
